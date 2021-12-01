@@ -20,7 +20,7 @@ index.html
 css/
 images/
 
-The agreed layout that was not to be compromised by any adjustments can be found at     ![Website Screenshot](https://github.com/aurorabanks/horiseon/blob/master/assets/screenshot.png)
+The agreed layout that was not to be compromised by any adjustments can be seen here     ![Website Screenshot](https://github.com/aurorabanks/horiseon/blob/master/assets/screenshot.png)
 
     ```
     
